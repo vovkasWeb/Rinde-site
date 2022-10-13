@@ -1,0 +1,15 @@
+Montserrat
+Weight: 300, 700
+size: 24px 18, 
+
+color-btn #000, #fff
+background  #003DFF;
+
+
+вопрос про логин и рег а или баттон 
+
+центр бекграунд
+
+анимация на кнопках
+
+reg
